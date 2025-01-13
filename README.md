@@ -1,4 +1,4 @@
-<h1>Projeto de uma Página de contratação de serviços de Diaristas de limpeza!</h1>
+<h1>Projeto de uma Página de contratação de serviço de Diaristas de limpeza!</h1>
 
 <h3> Projeto  de uma Página da Netflix desenvolvi   para  fins de oferece uma grande variedade de entretenimento, incluindo séries, filmes, documentários, jogos interativos e muito mais !
 utilizei a seguintes Tecnologias:</h3>
