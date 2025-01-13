@@ -1,6 +1,6 @@
 <h1>Projeto Página de Diaristas!</h1>
 
-<h3> Nessa Página desenvolvir para fins de divulgação da empresa de serviços de limpeza, contratação de diaristas !
+<h3> Nessa Página desenvolvir para fins de divulgação da empresa de serviços de limpeza, contratação de diaristas, Projeto está Responsivo 
 utilizei a seguintes Tecnologias:</h3>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo"/>
