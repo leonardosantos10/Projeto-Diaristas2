@@ -1,4 +1,4 @@
-<h1>Netflix</h1>
+<h1>Projeto de Página de contratação de serviços de Diaristas de limpeza!</h1>
 
 <h3> Projeto  de uma Página da Netflix desenvolvi   para  fins de oferece uma grande variedade de entretenimento, incluindo séries, filmes, documentários, jogos interativos e muito mais !
 utilizei a seguintes Tecnologias:</h3>
@@ -9,7 +9,7 @@ utilizei a seguintes Tecnologias:</h3>
 -  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
-<img src= ""/>
-
+<img src= "https://github.com/leonardosantos10/Projeto-Diaristas2/blob/main/imgs-do-projeto/img-desktop1.png?raw=true"/>
+<br>
 <img src= ""/>
 
