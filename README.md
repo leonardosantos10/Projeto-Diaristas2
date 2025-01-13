@@ -1,4 +1,4 @@
-<h1>Projeto de uma Página de contratação de serviço de Diaristas de limpeza!</h1>
+<h1>Projeto Página de Diaristas!</h1>
 
 <h3> Nessa Página desenvolvir para fins de divulgação da empresa de serviços de limpeza, contratação de diaristas !
 utilizei a seguintes Tecnologias:</h3>
